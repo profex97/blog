@@ -1,0 +1,34 @@
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:profex55@gmail.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "gitlab"
+    url = "https://gitlab.com/profex"
+    icon = "gitlab"
+    title = "gitlab"
+    weight = 3
+
+[[socials]]
+    id = "twitter"
+    url = "https://twitter.com/"
+    icon = "twitter"
+    title = "Twitter"
+    weight = 4
+
+[[socials]]
+    id = "telegram"
+    url = "https://t.me/"
+    icon = "telegram"
+    title = "Telegram"
+    weight = 5
